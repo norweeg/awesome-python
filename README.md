@@ -415,10 +415,10 @@ Inspired by [awesome-php](https://github.com/ziadoz/awesome-php).
     * [psycopg2](http://initd.org/psycopg/) - The most popular PostgreSQL adapter for Python.
     * [queries](https://github.com/gmr/queries) - A wrapper of the psycopg2 library for interacting with PostgreSQL.
 * Other Relational Databases
+    * [cx_Oracle](https://github.com/oracle/python-cx_Oracle) - Python interface to Oracle Database conforming to the Python DB API 2.0 specification.
     * [pymssql](https://pymssql.readthedocs.io/en/latest/) - A simple database interface to Microsoft SQL Server.
     * [SuperSQLite](https://github.com/plasticityai/supersqlite) - A supercharged SQLite library built on top of [apsw](https://github.com/rogerbinns/apsw).
     * [clickhouse-driver](https://github.com/mymarilyn/clickhouse-driver) - Python driver with native interface for ClickHouse.
-    * [cx_Oracle](https://github.com/oracle/python-cx_Oracle) - Python interface to Oracle Database conforming to the Python DB API 2.0 specification.
 * NoSQL Databases
     * [cassandra-driver](https://github.com/datastax/python-driver) - The Python Driver for Apache Cassandra.
     * [happybase](https://github.com/wbolster/happybase) - A developer-friendly library for Apache HBase.
